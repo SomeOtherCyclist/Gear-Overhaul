@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "tipped_hammer",
+    "customModelName": "Normal",
+    "name": "Diamond Tipped Pickaxe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 4,
+    "efficiency": 7.5,
+    "attackSpeed": 0.6,
+    "enchantability": 22,
+    "damageVsEntity": 12.0,
+    "usageCount": 954,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.DIAMOND"
+      }
+    ]
+  }
+}

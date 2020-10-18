@@ -1,0 +1,30 @@
+{
+  "group": "gearoverhaul",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "gearoverhaul:diamondgrit"
+    },
+    "1": {
+      "item": "gearoverhaul:binder"
+    },
+    "2": {
+      "item": "gearoverhaul:diamondgrit"
+    },
+    "4": {
+      "item": "minecraft:iron_axe"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "gearoverhaul:diamondtippedaxe",
+    "count": 1
+  }
+}
